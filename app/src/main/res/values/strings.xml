@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Android Tracking Product App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="History">History</string>
+    <string name="Welcome_Back">Welcome Back!</string>
+    <string name="Progress">Progress</string>
+    <string name="CurrentTracking">Current Tracking</string>
+    <string name="CYCTT">Check your current tracking transactions</string>
+    <string name="Trackify">Trackify</string>
+    <string name="PIBNTSIP">Please input barcode number to see in progress...</string>
+    <string name="Transactions">Transactions</string>
+    <string name="CAYCTP">Check all your current tracking progress.</string>
+    <string name="Username">Username</string>
+    <string name="Phone">Phone</string>
+    <string name="Email">Email</string>
+    <string name="Address">Address</string>
+    <string name="Back">Back</string>
+    <string name="Add">Add</string>
+    <string name="OrderProgress">Order Progress</string>
+    <string name="Cancel">Cancel</string>
+    <string name="EstimatedTime">Estimated time</string>
+    <string name="OrderNumber">Order number</string>
+    <string name="ShipmentDispatched">Shipment Dispatched</string>
+    <string name="YourShipmentIsDispatched">Your shipment is Dispatched!</string>
+    <string name="ShipmentAtCountryOfOriginWarehouse">Shipment at Country of Origin Warehouse</string>
+    <string name="YourOrderisatatCountryofOriginWarehouse.">Your Order is at Country of Origin Warehouse.</string>
+
+
+
+
+
+    Cancel
+
+
+
+
+
+</resources>
